@@ -1,0 +1,27 @@
+.add__form {
+    height: 48px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.add__input {
+    width: 1px;
+    height: 1px;
+}
+
+.add__label {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    width: 73%;
+    border: 1px solid #161616;
+    border-radius: 5px;
+}
+
+.add__button {
+    width: 26%;
+    background-color: white;
+    border: 1px solid #161616;
+    border-radius: 5px;
+}

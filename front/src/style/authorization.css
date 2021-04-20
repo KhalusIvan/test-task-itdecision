@@ -1,0 +1,29 @@
+.auth {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    border-radius: 20px;
+    font-size: 24px;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    width: 75%;
+    margin: 5px 0 20px;
+    font-size: 24px;
+}
+
+.auth__button {
+    width: 50%;
+    border: 1px solid #8E7B6C;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 24px;
+    background-color: #F0E4D6;
+}
